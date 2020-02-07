@@ -1,19 +1,16 @@
-Operations tasks. 
+Collaboration				1 hrs
+Deployment and Release notes 		4 hrs	
+Sanity Testing 				0.25 hrs	
+Rollout planning 			3 hrs
+Alert and notification 			1 hrs
+Roll back plan 				1 hrs 
+DRP 					0.25 hrs
+Logs 					2 hrs
+Tool Support 				0.25 hrs
+Network Monitoring			0.25 hrs
+Database Monitoring			0.25 hrs
+Cluster Monitoring 			0.25 hrs
+Server Monitoring			0.25 hrs
+Apps Support				2.25 hrs
 
-Collabaraion - 1 hour
-Release management
-	Deployement and Release notes - 32 hour - 4 hours - automation through CDP
-	Sanity Testing - 4 hours - 15 minst - Automation Testing - Selenium
-	Rollout planning - 3 hours
-	 - 
-Monitoring
-	Alert and notification - 8 hours - 1 hours
-	
-Production support
-	Roll back plan - 6 hours - 1 hour- 
-	DRP - 7 hours down time - 15 mins - AWS 
-	Logs splunk Base - 
-	
- support	
-
-	Tool Support - 1 hour  15 mins
+Total 					15 hrs
